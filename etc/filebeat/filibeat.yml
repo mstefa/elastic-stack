@@ -5,8 +5,8 @@ filebeat.inputs:
  - type: log
    enabled: true
    paths:
-    #  - '/var/lib/docker/containers/logs/*.log'
-     - '/home/mstefanutti/personal-ws/users-api/logs*.log'
+     - '/var/lib/docker/containers/logs/*.log'
+    #  - '/home/mstefanutti/personal-ws/users-api/logs*.log'
    json.keys_under_root: true
 
    processors:

@@ -1,0 +1,9 @@
+2022-04-05T12:13:38.454Z [right meow!] info: status
+2022-04-05T12:13:38.456Z [right meow!] warn: statuswarn
+2022-04-05T12:13:38.457Z [right meow!] error: statuserror
+2022-04-05T12:19:55.905Z [undefined] info: status
+2022-04-05T12:19:55.907Z [undefined] warn: statuswarn
+2022-04-05T12:19:55.908Z [undefined] error: statuserror
+2022-04-05T12:29:27.429Z [dev] info: status
+2022-04-05T12:29:27.433Z [dev] warn: statuswarn
+2022-04-05T12:29:27.433Z [dev] error: statuserror
